@@ -1,0 +1,23 @@
+img {
+  max-width: 100%; 
+  height: auto; 
+}
+ *{
+  font-family: 'Creepster', system-ui;
+  font-size: 30px;
+ }
+
+body {
+  background: rgb(107,200,224);
+  background: linear-gradient(90deg, rgba(107,200,224,1) 38%, rgba(44,255,0,0.8855917366946778) 72%);
+  text-align: center;
+  margin: 30px;
+
+}
+
+.list-group-item {
+  border: 1px solid #0b2744; 
+  border-radius: 0.25rem; 
+  margin-bottom: 10px; 
+
+}
